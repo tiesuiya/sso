@@ -1,4 +1,4 @@
-package org.lhpsn.support.config;
+package org.lhpsn.auth.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

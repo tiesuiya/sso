@@ -1,4 +1,4 @@
-package org.lhpsn.support.config;
+package org.lhpsn.auth.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
