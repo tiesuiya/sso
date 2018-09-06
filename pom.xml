@@ -12,6 +12,7 @@
     <modules>
         <module>config</module>
         <module>sso-server</module>
+        <module>sso-management</module>
     </modules>
 
     <properties>
